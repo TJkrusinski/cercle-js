@@ -1,0 +1,27 @@
+{
+  "name": "cercle-js",
+  "version": "0.0.0",
+  "description": "js interface for cercle",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TJkrusinski/cercle-js.git"
+  },
+  "keywords": [
+    "cercle",
+    "pub",
+    "sub"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/cercle-js/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/cercle-js",
+  "devDependencies": {
+    "cercle": "0.0.2"
+  }
+}
